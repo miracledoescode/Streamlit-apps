@@ -38,4 +38,4 @@ if st.session_state.tasks:
                 remove_task(index)
 
 # Footer
-st.write("Made with ❤️ from Greycode")
+st.write("Made with ❤️ from Grey code")
